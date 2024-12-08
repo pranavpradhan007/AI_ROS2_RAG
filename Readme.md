@@ -101,3 +101,6 @@ Developed a RAG for ROS2. This RAG helps ROS2 developers for documentation and c
 ##Environment
 ![Docker setup](Docker.png)
 (PS: If you can't render the image, open Docker.png)
+Pranav Tushar Pradhan
+pp3051@nyu.edu
+N18401944
