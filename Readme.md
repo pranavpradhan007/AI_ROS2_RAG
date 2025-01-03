@@ -104,11 +104,3 @@ Developed a RAG for ROS2. This RAG helps ROS2 developers for documentation and c
 (PS: Read Documentation.docx)
 
 
-Pranav Tushar Pradhan
-pp3051@nyu.edu
-N18401944
-
-
-Saavy Singh
-ss19170@nyu.edu
-N16140420
